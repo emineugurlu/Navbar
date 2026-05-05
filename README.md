@@ -46,6 +46,7 @@ This component focuses on **Micro-interaction Engineering**:
    ```bash
    git clone [https://github.com/emineugurlu/Navbar.git](https://github.com/emineugurlu/Navbar.git)
 2. **Open the Project:**
+   ```bash
    cd Navbar
    open index.html
    
